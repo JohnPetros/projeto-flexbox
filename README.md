@@ -7,4 +7,11 @@
 
 ![lucianojunnior17_projeto-Balerini-landingPage - Google Chrome 22_07_2022 17_11_28](https://user-images.githubusercontent.com/93893533/180520269-8b0080cf-2136-4254-a768-5bf80a322dde.png)
 
- <h3><a href="https://johnpetros.github.io/jogo_da_forca/">Veja o Jogo funcionando</a></h3>
+ <h3><a href="https://johnpetros.github.io/projeto-flexbox/">Veja o Site funcionando</a></h3>
+
+
+ 🚀 Tecnologias utilizadas
+
+✔️ HTML5
+
+✔️ CSS3
